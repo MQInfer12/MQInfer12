@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Molina</h1>
 <h3 align="center">A passionate fullstack developer from Bolivia</h3>
 
-- 🔭 I’m currently working on [lz shopping](https://github.com/MQInfer12/lz-shopping)
+- 🔭 I’m currently working on [CIDTEC_Banco_Alimentos](#)
 
 - 🌱 I’m currently learning **Typescript**
 
