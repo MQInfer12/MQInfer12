@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mauricio Molina</h1>
+<h1 align="center">Hi, I'm Mauricio Molina! 🌻🧡</h1>
 <h3 align="center">A passionate fullstack developer from Bolivia</h3>
 
-- 🔭 I’m currently working on [CIDTEC_Banco_Alimentos](#)
+- 🔭 I’m currently working on Psicotest
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Project Management**
 
 - 👨‍💻 All of my projects are available at [https://mqinfer12.github.io/portfolio-blogs/](https://mqinfer12.github.io/portfolio-blogs/)
-
-- 📝 I regularly write articles on [https://mqinfer12.github.io/portfolio-blogs/](https://mqinfer12.github.io/portfolio-blogs/)
 
 - 📫 How to reach me **maummq@gmail.com**
 
